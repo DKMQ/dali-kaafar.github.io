@@ -12,27 +12,31 @@ published: true
 **Post-Doctoral Researchers**
 1. Dr. Tham Nguyen
 2. Dr. Tahiry Rabehaja
-3. Dr. Gioacchino Tangari
-4. Dr. Zhigang Lu
+3. Dr. [Gioacchino Tangari]
+4. Dr. [Zhigang Lu]
 5. Dr. Nardine Basta
 
 
 
 **Current PhD Students**
 
-1. Fazlullah Khan, Macquarie University. Topic: Design and Analysis of a Secure and Privacy Preserving Mobile Crowd sensing System
 
-2. Shakila Mahjabin, Macquarie University. Topic: Privacy in AI.
+1.Hina Qayyum, Macquarie University. Topic: Statistical Analysis for ML/AI robustness against adversarial attacks
 
-3. Rizwan Ahmad, Macquarie University. Topic: Privacy and security in Edge Computing.
+2. Fazlullah Khan, Macquarie University. Topic: Design and Analysis of a Secure and Privacy Preserving Mobile Crowd sensing System
 
-4. Nan Wu, Macquarie University. Topic: Utility-Privacy Tradeoffs in Data analytics.
+3. Shakila Mahjabin, Macquarie University. Topic: Privacy in AI.
 
-5. Nazim Uddin Sheikh, Macquarie University. Topic: Statistical Models For Privacy preserving Energy Data.
+4. Rizwan Ahmad, Macquarie University. Topic: Privacy and security in Edge Computing.
 
-6. Marina Dehez-Clementi, Macquarie University/University of Toulouse. Topic: Verifiable data schemes.
+5. Nan Wu, Macquarie University. Topic: Utility-Privacy Tradeoffs in Data analytics.
 
-7. Ben Zhao, Data61-UNSW, Topic: Next Generation Authentication techniques.
+6. Nazim Uddin Sheikh, Macquarie University. Topic: Statistical Models For Privacy preserving Energy Data.
+
+7. Marina Dehez-Clementi, Macquarie University/University of Toulouse. Topic: Verifiable data schemes.
+
+8. Ben Zhao, Data61-UNSW, Topic: Next Generation Authentication techniques.
+
 
 
 **Past PhD Students**
@@ -43,11 +47,11 @@ published: true
 
 3. [Arash Shaghaghi], Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Securing Large Enterprise Networks.
 
-4. Zainab Abaid, Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Early detection of Malware.
+4. [Zainab Abaid], Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Early detection of Malware.
 
-5. Jagmohan Chauhan, Data61-UNSW, co-supervised with Aruna Seneviratne. Topic: Security and Privacy of under-powered devices.
+5. [Jagmohan Chauhan], Data61-UNSW, co-supervised with Aruna Seneviratne. Topic: Security and Privacy of under-powered devices.
 
-6. Abdelberi Chaabane, Inria. Graduated in May 2013. Topic: Privacy in online social networks. Currently Post-Doctoral researcher at Northeastern University.
+6. [Abdelberi Chaabane], Inria. Graduated in May 2013. Topic: Privacy in online social networks. Currently Post-Doctoral researcher at Northeastern University.
 
 7. Minh-Dung Tran, Inria, Graduated in November 2013. Topic: Privacy challenges in Online Targeted Advertising. Currently leading system Architect at Probayes.
 
