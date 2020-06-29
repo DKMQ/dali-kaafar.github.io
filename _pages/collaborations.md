@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Information Security & Privacy Research Group"
+title: Information Security & Privacy Research Group
 permalink: /collaborations/
 author_profile: true
+published: true
 ---
 
 {% include base_path %}
@@ -12,11 +13,9 @@ author_profile: true
 1. Dr. Tham Nguyen
 2. Dr. Tahiry Rabehaja
 3. Dr. Gioacchino Tangari
-4. Dr. Zhigang Lu 
+4. Dr. Zhigang Lu
+5. Dr. Nardine Basta
 
-**Past Post-Doctoral Researchers**
-
-1. Dr. Muhammad Ikram
 
 
 **Current PhD Students**
@@ -38,11 +37,11 @@ author_profile: true
 
 **Past PhD Students**
 
-1. Rahat Masood, Data61-UNSW, Topic: Privacy for wearable devices.
+1. [Rahat Masood], Data61-UNSW, Topic: Privacy for wearable devices.
 
-2. Ikram Muhammad, Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Lecturer: Optus Macquarie University Cyber Security Hub.
+2. [Ikram Muhammad], Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Lecturer: Optus Macquarie University Cyber Security Hub.
 
-3. Arash Shaghaghi, Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Securing Large Enterprise Networks.
+3. [Arash Shaghaghi], Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Securing Large Enterprise Networks.
 
 4. Zainab Abaid, Data61-UNSW, co-supervised with Sanjay Jha, UNSW. Topic: Early detection of Malware.
 
