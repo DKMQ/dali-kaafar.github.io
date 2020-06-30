@@ -25,17 +25,17 @@ published: true
 
 2. Fazlullah Khan, Macquarie University. Topic: Design and Analysis of a Secure and Privacy Preserving Mobile Crowd sensing System
 
-3. Shakila Mahjabin, Macquarie University. Topic: Privacy in AI.
+3. Shakila Mahjabin, Macquarie University. Topic: Privacy in AI
 
-4. Rizwan Ahmad, Macquarie University. Topic: Privacy and security in Edge Computing.
+4. Rizwan Ahmad, Macquarie University. Topic: Privacy and security in Edge Computing
 
-5. Nan Wu, Macquarie University. Topic: Utility-Privacy Tradeoffs in Data analytics.
+5. Nan Wu, Macquarie University. Topic: Utility-Privacy Tradeoffs in Data analytics
 
-6. Nazim Uddin Sheikh, Macquarie University. Topic: Statistical Models For Privacy preserving Energy Data.
+6. Nazim Uddin Sheikh, Macquarie University. Topic: Statistical Models For Privacy preserving Energy Data
 
-7. Marina Dehez-Clementi, Macquarie University/University of Toulouse. Topic: Verifiable data schemes.
+7. Marina Dehez-Clementi, Macquarie University/University of Toulouse. Topic: Verifiable data schemes
 
-8. Ben Zhao, Data61-UNSW, Topic: Next Generation Authentication techniques.
+8. Ben Zhao, Data61-UNSW, Topic: Next Generation Authentication techniques
 
 
 
