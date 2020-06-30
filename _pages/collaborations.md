@@ -41,7 +41,7 @@ published: true
 
 **Past PhD Students**
 
-1. [Rahat Masood], Data61-UNSW, Topic: Privacy for wearable devices.
+1. [[Rahat Masood](https://research.csiro.au/isp/about-us/students/rahat-masood/)], Data61-UNSW, Topic: Privacy for wearable devices.
 
 2. [Ikram Muhammad], Data61-UNSW. Topic: Usable Privacy Preserving Technologies. Lecturer: Optus Macquarie University Cyber Security Hub.
 
