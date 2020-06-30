@@ -21,7 +21,7 @@ published: true
 **Current PhD Students**
 
 
-1.Hina Qayyum, Macquarie University. Topic: Statistical Analysis for ML/AI robustness against adversarial attacks
+1. Hina Qayyum, Macquarie University. Topic: Statistical Analysis for ML/AI robustness against adversarial attacks
 
 2. Fazlullah Khan, Macquarie University. Topic: Design and Analysis of a Secure and Privacy Preserving Mobile Crowd sensing System
 
