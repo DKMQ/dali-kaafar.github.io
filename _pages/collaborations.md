@@ -12,7 +12,7 @@ published: true
 **Post-Doctoral Researchers**
 1. Dr. Tham Nguyen
 2. Dr. Tahiry Rabehaja
-3. Dr. [Gioacchino Tangari]
+3. Dr. [[Gioacchino Tangari]](https://uk.linkedin.com/in/gioacchino-tangari-7b362310b)
 4. Dr. [Zhigang Lu]
 5. Dr. Nardine Basta
 
